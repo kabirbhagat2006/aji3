@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Remix: Aji3 - AI Smart Assistant",
+  "description": "Aji3: Elite Smart Assistant with \u0027Master of Control\u0027 command execution and Never-Error total-screen vision.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
